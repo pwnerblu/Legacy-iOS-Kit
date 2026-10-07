@@ -13,6 +13,7 @@ These binaries use the same source on Linux and macOS.
 | gilbertjb            | [g1lbertJB](https://github.com/g1lbertJB/g1lbertJB)                      |
 | hfsplus              | [daibutsuCFW](https://github.com/LukeZGD/daibutsuCFW)                    |
 | iBoot32Patcher       | [iBoot32Patcher](https://github.com/LukeZGD/iBoot32Patcher)              |
+| iBootpatch2          | [iBootpatch2](https://github.com/asdfugil/iBootpatch2/tree/ipad6)        |
 | ibootim              | [ibootim](https://github.com/LukeZGD/ibootim)                            |
 | ideviceactivation    | [idevicerestore](https://github.com/LukeZGD/idevicerestore)              |
 | idevicebackup2       | [idevicerestore](https://github.com/LukeZGD/idevicerestore)              |
